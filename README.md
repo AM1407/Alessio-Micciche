@@ -33,39 +33,17 @@
 
 <div align="center">
 
-  <h3>Core Stack</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35c2fa&center=true&vCenter=true&width=435&lines=Code.+Build.+Secure.;Solving+Complex+Problems;Always+Learning" alt="Typing SVG" />
+  </a>
 
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-snips/master/public/icons/angular.svg" width="50" height="50" alt="Angular" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,html,css,ts,git,github,vscode,bootstrap,figma,webstorm,kali,laravel,md,supabase,vite&theme=dark" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-snips/master/public/icons/javascript.svg" width="50" height="50" alt="JavaScript" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-snips/master/public/icons/html5.svg" width="50" height="50" alt="HTML5" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-snips/master/public/icons/css3.svg" width="50" height="50" alt="CSS3" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-snips/master/public/icons/nodejs.svg" width="50" height="50" alt="Node.js" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-snips/master/public/icons/python.svg" width="50" height="50" alt="Python" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-snips/master/public/icons/git.svg" width="50" height="50" alt="Git" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-snips/master/public/icons/postgresql.svg" width="50" height="50" alt="SQL" />
-  </a>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
@@ -74,8 +52,8 @@
 ### 📊 Network Traffic (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AM1407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AM1407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/AM1407/AM1407/main/profile-summary-card-output/default/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/AM1407/AM1407/main/profile-summary-card-output/default/2-most-commit-language.svg" />
 </div>
 
 ---
